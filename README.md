@@ -8,7 +8,7 @@ Here you can find some of my open source and pet-projects.
 ### 🛠 My tech stack:
 
 - **Responsive web-development:** HTML5/PUG, CSS/SCSS/LESS;
-- **Frontend:** Vanilla JavaScript (ES6+) ❤️;
+- **Frontend:** Vanilla JavaScript (ES6+) https://www.emojirequest.com/images/FoxFaceEmoji.jpg;
 - **JavaScript libraries:** React, Redux;
 - **Testing libraries:** Jest, Enzyme;
 - **Code bundlers:** Gulp, Webpack;
