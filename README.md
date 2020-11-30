@@ -28,7 +28,7 @@ Here you can find some of my open source and pet-projects.
 
 <p align="center">
 <a href="mailto:renko.hens@yandex.ru"><img height="30" src=""></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D1%88%D0%B8%D0%B1%D0%B8%D0%B4%D0%B6%D0%B8%D0%B5%D0%B2-45208116a/"><img height="30" src="https://raw.githubusercontent.com/renkoHens/renkoHens/master/003-email.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/renko__hens/"><img height="30" src="https://raw.githubusercontent.com/renkoHens/renkoHens/master/002-instagram.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D1%88%D0%B8%D0%B1%D0%B8%D0%B4%D0%B6%D0%B8%D0%B5%D0%B2-45208116a/"><img height="30" src="https://github.com/Renko-hens/renkoHens/blob/main/001-linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/renko__hens/"><img height="30" src="https://github.com/Renko-hens/renkoHens/blob/main/002-instagram.svg"></a>&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/Renko-hens"><img height="30" src="https://www.codewars.com/users/Renko-hens/badges/micro"></a>
 </p>
