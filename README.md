@@ -27,7 +27,7 @@ Here you can find some of my open source and pet-projects.
 | [What To Watch](https://github.com/Renko-hens/525315-what-to-watch-4) | Online cinema app with ability to log in, rate, comment and watch movies. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
 | [Cinema Addict](https://github.com/Renko-hens/525315-cinemaddict-11) | | Vanilla JavaScript (ES6), Moment.js, Flatpickr.js, Webpack |
 | [BingoBoom Test](https://github.com/Renko-hens/bingoBoom) | | Vanilla JavaScript (ES6), HTML, SCSS, Webpack|
-| [KeksoBooking] (https://github.com/Renko-hens/525315-keksobooking-19) | Simple "booking"-like app. | Vanilla JavaScript (ES5) |
+| [KeksoBooking](https://github.com/Renko-hens/525315-keksobooking-19) | Simple "booking"-like app. | Vanilla JavaScript (ES5) |
 | [Code and Magick](https://github.com/Renko-hens/525315-code-and-magick-19) | | HTML, SCSS, Vanilla JavaScript (ES5), Gulp |
 
 
