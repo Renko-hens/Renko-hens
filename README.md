@@ -8,7 +8,7 @@ Here you can find some of my open source and pet-projects.
 ### 🛠 My tech stack:
 
 - **Responsive web-development:** HTML5/PUG, CSS/SCSS/LESS;
-- **Frontend:** Vanilla JavaScript (ES6+) <img src="https://www.emojirequest.com/images/FoxFaceEmoji.jpg;" width="100%" alt="Hi! I am Denis Shibhidzhiev. Frontend developer" /> 
+- **Frontend:** Vanilla JavaScript (ES6+) 🦊
 - **JavaScript libraries:** React, Redux;
 - **Testing libraries:** Jest, Enzyme;
 - **Code bundlers:** Gulp, Webpack;
@@ -22,6 +22,13 @@ Here you can find some of my open source and pet-projects.
 ### 💻 Some of my open source projects:
 
 | Project name        | Description          | Technologies  |
+| ------------- | ------------- | ----- |
+| [Syrovarnya](https://syrovarnya.com/) | A set of base files for creating a front-end project (HTML/SCSS + JavaScript). Uses Webpack as a bundler. | React, Next.js, Jest, Webpack |
+| [What To Watch](https://github.com/Renko-hens/525315-what-to-watch-4) | Online cinema app with ability to log in, rate, comment and watch movies. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
+| [Cinema Addict](https://github.com/Renko-hens/525315-cinemaddict-11) | | Vanilla JavaScript (ES6), Moment.js, Flatpickr.js, Webpack |
+| [BingoBoom Test](https://github.com/Renko-hens/bingoBoom) | | Vanilla JavaScript (ES6), HTML, SCSS, Webpack|
+| [KeksoBooking] (https://github.com/Renko-hens/525315-keksobooking-19) | Simple "booking"-like app. | Vanilla JavaScript (ES5) |
+| [Code and Magick](https://github.com/Renko-hens/525315-code-and-magick-19) | | HTML, SCSS, Vanilla JavaScript (ES5), Gulp |
 
 
 ### 💌 Feel free to contact me if you have interesting ideas or looking for a new team member. 
