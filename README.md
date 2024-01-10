@@ -8,16 +8,14 @@ Here you can find some of my open source and pet-projects.
 ### 🛠 My tech stack:
 
 - **Responsive web-development:** HTML5/PUG, CSS/SCSS/LESS;
-- **Frontend:** Vanilla JavaScript (ES6+) 🦊
-- **JavaScript libraries:** React, Redux;
-- **Testing libraries:** Jest, Enzyme;
-- **Code bundlers:** Gulp, Webpack;
-- **UX/UI:** Adobe XD, Figma, Adobe Photoshop.
+- **Frontend:** Vanilla JavaScript (ES6+) 🦊, TypeScript;
+- **JavaScript libraries:** React, Redux, Mobx, Lit;
+- **Testing libraries:** Jest, Enzyme, RTL;
+- **Code bundlers:** Gulp, Webpack, VITE;
+- **UX/UI:** Adobe XD, Figma, Adobe Photoshop, Sketch.
 
 ## 🎓 Currently learning:
-- TypeScript;
-- Styled Components;
-- React Hooks.
+- Next.js;
 
 ### 💻 Some of my open source projects:
 
