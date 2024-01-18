@@ -28,7 +28,6 @@ Here you can find some of my open source and pet-projects.
 | [AM-SERVICE](https://amservice.spb.ru/) | | Vanilla JavaScript (ES6), SCSS, PUG, Webpack |
 | [OAV](https://outletautovillage.ru/) | | Vanilla JavaScript (ES5), Vue.js, Jquery, SCSS, PUG, Webpack |
 | [BingoBoom Test](https://github.com/Renko-hens/bingoBoom) | | Vanilla JavaScript (ES6), HTML, SCSS, Webpack|
-| [What To Watch](https://github.com/Renko-hens/525315-what-to-watch-4) | Online cinema app with ability to log in, rate, comment and watch movies. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
 | [Cinema Addict](https://github.com/Renko-hens/525315-cinemaddict-11) | | Vanilla JavaScript (ES6), Moment.js, Flatpickr.js, Webpack |
 
 
