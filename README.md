@@ -1,6 +1,6 @@
-<p align="center">
-      <img src="https://github.com/Renko-hens/renkoHens/blob/main/Main.jpg" width="100%" alt="Hi! I am Denis Shibhidzhiev. Frontend developer" />
-</p>
+<!-- <p align="center"> -->
+      <!-- <img src="https://github.com/Renko-hens/renkoHens/blob/main/Main.jpg" width="100%" alt="Hi! I am Denis Shibhidzhiev. Frontend developer" /> -->
+<!-- </p> -->
 
 Welcome to my GitHub page! I am a frontend developer with a strong passion of UX/UI design.
 Here you can find some of my open source and pet-projects. 
